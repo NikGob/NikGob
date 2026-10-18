@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="404. The 404 page of nikgob.com. One HTML file, served by nginx in a Docker container.">
+<title>404. The 404 page of nikgob.com. One HTML file, served by nginx in a Docker container.</title>
+<rect x="10" y="10" width="404" height="194" fill="#195F41"/>
+<rect x="3" y="3" width="402" height="192" fill="#EEF1EE" stroke="#1B1B1B" stroke-width="2"/>
+<rect x="22" y="20" width="34" height="20" fill="#195F41"/>
+<text x="39" y="34.5" font-family="Helvetica, Arial, 'Liberation Sans', 'Nimbus Sans', sans-serif" font-size="12" font-weight="700" fill="#EEF1EE" text-anchor="middle" letter-spacing="0.5">04</text>
+<text x="386" y="35" font-family="Helvetica, Arial, 'Liberation Sans', 'Nimbus Sans', sans-serif" font-size="13" font-weight="700" fill="#1B1B1B" text-anchor="end">3</text>
+<path transform="translate(360.5 23.5) scale(0.5416666666666666)" d="M12 1.5l3.1 6.6 7.2.9-5.3 5 1.4 7.1L12 17.6l-6.4 3.5L7 14l-5.3-5 7.2-.9Z" fill="#1B1B1B"/>
+<path transform="translate(22.00 82) scale(0.3000)" d="M38.3 -13.4H2.1V-29.7L38.3 -72.8H55.6V-28.8H64.6V-13.4H55.6V0H38.3ZM38.3 -28.8V-51.3L19.1 -28.8ZM69.8 -36.1Q69.8 -56.5 77.1 -64.6Q84.5 -72.8 99.5 -72.8Q106.8 -72.8 111.4 -71Q116 -69.2 119 -66.4Q121.9 -63.5 123.6 -60.4Q125.3 -57.2 126.3 -53Q128.3 -45 128.3 -36.3Q128.3 -16.8 121.7 -7.8Q115.1 1.2 99 1.2Q90 1.2 84.4 -1.7Q78.8 -4.5 75.3 -10.1Q72.7 -14.1 71.2 -20.9Q69.8 -27.8 69.8 -36.1ZM89.5 -36Q89.5 -22.4 91.9 -17.4Q94.4 -12.4 99 -12.4Q102 -12.4 104.2 -14.5Q106.4 -16.6 107.5 -21.2Q108.5 -25.8 108.5 -35.5Q108.5 -49.8 106.1 -54.7Q103.7 -59.6 98.9 -59.6Q93.9 -59.6 91.7 -54.6Q89.5 -49.6 89.5 -36ZM169.7 -13.4H133.4V-29.7L169.7 -72.8H187V-28.8H196V-13.4H187V0H169.7ZM169.7 -28.8V-51.3L150.5 -28.8Z" fill="#1B1B1B"/>
+<text x="22" y="110" font-family="Helvetica, Arial, 'Liberation Sans', 'Nimbus Sans', sans-serif" font-size="14" font-weight="400" fill="#4A4F4C">The 404 page of nikgob.com. One HTML file, served by</text>
+<text x="22" y="129" font-family="Helvetica, Arial, 'Liberation Sans', 'Nimbus Sans', sans-serif" font-size="14" font-weight="400" fill="#4A4F4C">nginx in a Docker container.</text>
+<rect x="22" y="164" width="364" height="2" fill="#1B1B1B"/>
+<text x="22" y="185" font-family="Helvetica, Arial, 'Liberation Sans', 'Nimbus Sans', sans-serif" font-size="11" font-weight="700" fill="#1B1B1B" letter-spacing="0.9">HTML / NGINX / DOCKER</text>
+
+</svg>
