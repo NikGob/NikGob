@@ -18,7 +18,7 @@ const TYPE = JSON.parse(await readFile(join(HERE, 'outlines.json'), 'utf8'));
 const FEATURED = [
   {
     repo: 'music.nikgob',
-    tags: 'RUST / EGUI / OPUS / FLAC',
+    tags: 'RUST / EGUI',
     description:
       'Local-first music player. Streams Spotify and SoundCloud, keeps an Opus/FLAC library, karaoke and sync across devices.',
   },
