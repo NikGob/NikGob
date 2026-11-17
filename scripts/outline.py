@@ -27,10 +27,10 @@ SPECS = {
     "est": (BOLD, "EST. 2023", 0.14),
     "facts1": (BLACK, "Nikgob", -0.01),
     "facts2": (BLACK, "Facts", -0.01),
+    "title:music.nikgob": (BLACK, "music.nikgob", -0.01),
     "title:ClockManage": (BLACK, "ClockManage", -0.01),
     "title:Steam-Currency": (BLACK, "Steam-Currency", -0.01),
     "title:share.nikgob": (BLACK, "share.nikgob", -0.01),
-    "title:404": (BLACK, "404", -0.01),
 }
 STRIP = ["C# / .NET", "RUST", "TYPESCRIPT", "TAURI", "MCP", "GO", "KOTLIN", "FLUTTER", "PYTHON"]
 for word in STRIP:

@@ -17,6 +17,12 @@ const TYPE = JSON.parse(await readFile(join(HERE, 'outlines.json'), 'utf8'));
 
 const FEATURED = [
   {
+    repo: 'music.nikgob',
+    tags: 'RUST / EGUI / OPUS / FLAC',
+    description:
+      'Local-first music player. Streams Spotify and SoundCloud, keeps an Opus/FLAC library, karaoke and sync across devices.',
+  },
+  {
     repo: 'ClockManage',
     tags: 'RUST / TAURI 2 / MCP',
     description:
@@ -31,11 +37,6 @@ const FEATURED = [
     repo: 'share.nikgob',
     tags: 'C# / .NET / GOOGLE DRIVE',
     description: 'Google Drive API helpers that I reuse across my own projects.',
-  },
-  {
-    repo: '404',
-    tags: 'HTML / NGINX / DOCKER',
-    description: 'The 404 page of nikgob.com. One HTML file, served by nginx in a Docker container.',
   },
 ];
 
